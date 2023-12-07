@@ -1,6 +1,7 @@
 # ChainIn ⛓️
 
-**Authenticity-Driven**, **Privacy-Focused** Business & Employment Aggregator dApp. Bridging the gap between employers and job seekers using [Chainlink CCIP](https://chain.link/cross-chain), [Polygon ID](https://polygonid.com/), [The Graph](https://thegraph.com/) and [Tableland](https://tableland.xyz/)
+**Authenticity-Driven**, **Privacy-Focused** Business & Employment Aggregator dApp. 
+Bridging the gap between employers and job seekers using [Chainlink CCIP](https://chain.link/cross-chain), [Polygon ID](https://polygonid.com/), [The Graph](https://thegraph.com/) and [Tableland](https://tableland.xyz/).
 
 <div align="center">
 <img 
