@@ -14,7 +14,7 @@ Bridging the gap between employers and job seekers using [Chainlink CCIP](https:
 
 ChainIn is a **secure and transparent** space for businesses and job seekers, prioritizing **security** in connecting **verified** talents with employers.
 
-Part of Chainlink Lab's team? 😱 Obtain verified proof showcasing your association with authenticity on ChainIn!
+Part of Chainlink Lab's team? 😱 Obtain verified proof showcasing your association with Chainlink Labs on **ChainIn**!
 
 Picture a world where employers can trust an applicant's past job experiences, and job seekers being able to verify credentials without compromising all their data. That's the beauty of **ChainIn** ❗️
 
