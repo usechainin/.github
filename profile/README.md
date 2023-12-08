@@ -20,7 +20,7 @@ Picture a world where employers can trust an applicant's past job experiences, a
 
 With a commitment to **authenticity**, **ChainIn** employs blockchain technology to **verify** and **validate** user credentials, ensuring a **secure** and **transparent** environment for both businesses and job seekers alike. 
 
-Experience the future of job searching and business connections with our privacy-focused, authenticity-driven dApp at **🚀 <a href="https://chainin.netlify.app/">ChainIn</a> 🚀**
+Experience the future of job searching and business connections with our privacy-focused, authenticity-driven dApp at **<a href="https://chainin.netlify.app/">ChainIn</a> 🚀**
 
 ### ⛑️ How it works
 
