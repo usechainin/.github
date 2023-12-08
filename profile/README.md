@@ -45,6 +45,7 @@ We welcome any feedback, improvements, and amendments to these repositories 🙌
 
 - [Frontend](https://github.com/usechainin/chainin-dapp) - A NextJS frontend dApp.
 - [API Server](https://github.com/usechainin/chainin-server) - A Server API connecting to the Tableland on-chain DB.
+- [API Documentation](https://elements.getpostman.com/redirect?entityId=31443216-dd0d4c78-1b59-4c28-93767605289e74b8&entityType=collection) - Backend API Documentaton.
 - [Smart Contracts](https://github.com/usechainin/smart-contract) - Smart Contracts for CCIP, Polygon ID.
-- [Subgraph](https://github.com/usechainin/Subgraph) - Subgraph query endpoin.
+- [Subgraph](https://github.com/usechainin/Subgraph) - Subgraph query endpoint.
 
