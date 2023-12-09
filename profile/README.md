@@ -53,7 +53,7 @@ Experience the future of job searching and building connections with our **priva
 
 ## 🏛️ Architecture
 
-
+![chainin-architecture](https://github.com/usechainin/.github/assets/42776950/ea7d41a7-ea60-4c87-9c0b-10242c123655)
 
 ## 🧑🏻‍💻 Software
 
@@ -67,7 +67,7 @@ Experience the future of job searching and building connections with our **priva
 
 ## 🛠️ Improvements
 
-- **Future Feature Enhancements**:
+- **Feature Enhancements**:
   - **Social Posts, Comments & Likes**: Implement ChainIn's social network aspect to increase user engagement.
   - **User Portfolio Enhancements**: Add in features to the user profile page e.g. resume uploads, video introduction & showcase of user's verified NFTs.
   - **Resume File Uploads in Subgraph**: Include links to resume for employers to easily view job applicant's details.
