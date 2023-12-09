@@ -77,16 +77,15 @@ Experience the future of job searching and building connections with our **priva
 - **Latency Improvements**:
     - **Server-Side Optimization**: Improve server response times to reduce front-end load.
     - **Client-Side Efficiency**: Improve UX and UI performance.
+    - **Framework Selection**: Evaluate more efficient frameworks and technology stacks.
     - **Caching with CDN**
     - **Micro API Optimization**
-    - **Framework Selection**: Evaluate more efficient frameworks and technology stacks.
-    - **Decentralized Client Integration**: Fleek.co for permissionless hosting (extra work on the routes).
 
 - **Gasless Transactions**: Gasless on-chain storing of data but at the cost of security.
 
 ## ⛔️ Limitations 
 
-- **Team Dynamics**: We had to rework our team mid-hackathon due to the inactivity and lack of participation of our previous front-end developer.
+- **Team Dynamics**: We had to rework our team  and find a new member mid-hackathon due to the inactivity and lack of participation of our previous front-end developer.
 
 - **Team Constraints**: Team of 3, each with full-time jobs, dedicating weekends and nights. We had to carefully plan for MVP and sacrifice certain requirements deemed secondary.
 
