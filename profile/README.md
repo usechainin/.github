@@ -53,7 +53,7 @@ Experience the future of job searching and building connections with our **priva
 
 ## 🏛️ Architecture
 
-![chainin-architecture](https://github.com/usechainin/.github/assets/42776950/ea7d41a7-ea60-4c87-9c0b-10242c123655)
+![chainin-architecture](https://github.com/usechainin/.github/assets/42776950/89deccdb-b375-46e4-8cf3-88c051cbf7b3)
 
 ## 🧑🏻‍💻 Software
 
