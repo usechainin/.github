@@ -31,6 +31,8 @@ Experience the future of job searching and building connections with our **priva
 
 ## ⛑️ How it works
 
+![ChainIn Demo Slides](https://github.com/usechainin/.github/assets/42776950/659322c5-d14d-4b07-8e1b-be999cc64832)
+
 1. **Connect your wallet** through our built-in wallet provider, [RainbowKit](https://www.rainbowkit.com/).
 2. Set up your profile.
 3. Voila! It's done. Your info stays on-chain, safe from leaks.
