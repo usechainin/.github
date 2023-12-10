@@ -29,7 +29,7 @@ With a commitment to **authenticity**, **ChainIn** employs web3 innovative techn
 
 Experience the future of job searching and building connections with our **privacy-focused**, **authenticity-driven** dApp at **<a href="https://chainin.netlify.app/">ChainIn</a> 🚀**
 
-### ⛑️ How it works
+## ⛑️ How it works
 
 1. **Connect your wallet** through our built-in wallet provider, [RainbowKit](https://www.rainbowkit.com/).
 2. Set up your profile.
